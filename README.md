@@ -1,18 +1,5 @@
 # 🧠 CNN Research Techniques Repository - Complete Guide
 
-**Pattern based on:** [RAG_Techniques by NirDiamant](https://github.com/NirDiamant/RAG_Techniques)
-
----
-
-## 📋 Table of Contents
-1. [Complete README Structure](#readme)
-2. [Best Practices & Tools Tables](#tables)
-3. [Implementation Recommendations](#implementations)
-4. [Code Examples to Add](#code-examples)
-5. [Repository Setup Checklist](#checklist)
-
----
-
 # 🧠 CNN Research Techniques
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
