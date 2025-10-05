@@ -13,9 +13,6 @@
 
 ---
 
-## 🎯 COMPLETE README.MD {#readme}
-
-```markdown
 # 🧠 CNN Research Techniques
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
