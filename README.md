@@ -690,5 +690,3 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 ⭐️ **If you find this repository helpful, please star it!**
 
 **Keywords**: CNN, Convolutional Neural Networks, Deep Learning, Computer Vision, ResNet, EfficientNet, Object Detection, Image Classification, PyTorch, TensorFlow, Transfer Learning, Model Optimization, Neural Architecture
-
-
