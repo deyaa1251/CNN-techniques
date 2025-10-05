@@ -1,5 +1,3 @@
-# 🧠 CNN Research Techniques Repository - Complete Guide
-
 # 🧠 CNN Research Techniques
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
