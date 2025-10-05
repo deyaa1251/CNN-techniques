@@ -683,7 +683,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 - **Author**: Deyaa Khateeb
 - **Email**: Deyaanaser88@gmail.com
-- **LinkedIn**: [[Your Profile](https://www.linkedin.com/in/deyaa-al-khatib-090b84211/)](#)
+- **LinkedIn**: [(https://www.linkedin.com/in/deyaa-al-khatib-090b84211/)](#)
 
 ---
 
